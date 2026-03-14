@@ -309,5 +309,4 @@ Jay Pachupate pachupatejay2102@gmail.com
 
 Hackathon Submission – AI Construction Schedule Recommendation System
 
-# vConstruct-Hackathon-pachupatejay2102
-Hackathon repo for pachupatejay2102@gmail.com
+
