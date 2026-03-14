@@ -1,0 +1,20 @@
+[
+  {
+    "phase": "Site Preparation",
+    "task": "Site Clearing",
+    "duration_days": 5,
+    "predecessor": null
+  },
+  {
+    "phase": "Foundation",
+    "task": "Excavation",
+    "duration_days": 7,
+    "predecessor": "Site Clearing"
+  },
+  {
+    "phase": "Foundation",
+    "task": "Concrete Pour",
+    "duration_days": 5,
+    "predecessor": "Excavation"
+  }
+]
