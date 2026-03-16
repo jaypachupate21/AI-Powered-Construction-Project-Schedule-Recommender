@@ -220,7 +220,10 @@ Create a .env file in the project root.
 
 Example:
 ```
-OPENAI_API_KEY=your_openai_api_key
+AZURE_OPENAI_API_KEY=your_api_key
+AZURE_OPENAI_ENDPOINT=https://your-resource.openai.azure.com/
+AZURE_OPENAI_API_VERSION=2024-12-01-preview
+AZURE_OPENAI_DEPLOYMENT=your_deployment_name
 ```
 
 ## ▶️ Running the Application
